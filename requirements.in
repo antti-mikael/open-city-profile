@@ -8,10 +8,9 @@ django-graphql-jwt
 django-helusers
 django-ilmoitin
 django-munigeo
-django-parler-rest
+django-parler
 django-reversion
 django-thesaurus>=0.0.2
-djangorestframework
 graphene-django
 pillow
 psycopg2-binary
